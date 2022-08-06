@@ -1,0 +1,27 @@
+import gtts
+from playsound import playsound
+import cv2
+import numpy as np
+from pyzbar.pyzbar import decode
+import speech_recognition as sr
+from selenium import webdriver
+import chromedriver_binary
+import sqlite3
+import time
+import datetime
+from num2words import num2words
+from word2number import w2n
+from translate import Translator
+
+pip install gTTS
+pip install playsound==1.2.2
+pip install opencv-python
+pip install pyzbar
+pip install SpeechRecognition
+pip install selenium
+pip install db-sqlite3
+pip install times
+pip install DateTime
+pip install num2words
+pip install word2number
+pip install translate

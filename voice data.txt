@@ -1,0 +1,73 @@
+veyali:
+veyali ankuntunna
+veyali ani ankuntunna
+veyali ankuntunnanu
+veyali ani ankuntunnanu	
+dabbulu veyali
+dabbulu veyali ankuntunna
+dabbulu veyali ani ankuntunna
+dabbulu veyali ankuntunnanu
+dabbulu veyali ani ankuntunnanu	
+ivvali:
+ivvali ankuntunna
+ivvali ani ankuntunna
+ivvali ankuntunnanu
+ivvali ani ankuntunnanu	
+dabbulu ivvali
+dabbulu ivvali ankuntunna
+dabbulu ivvali ani ankuntunna
+dabbulu ivvali ankuntunnanu
+dabbulu ivvali ani ankuntunnanu	
+pettali:
+pettali ankuntunna
+pettali ani ankuntunna
+pettali ankuntunnanu
+pettali ani ankuntunnanu	
+dabbulu pettali
+dabbulu pettali ankuntunna
+dabbulu pettali ani ankuntunna
+dabbulu pettali ankuntunnanu
+dabbulu pettali ani ankuntunnanu
+unchali:
+unchali ankuntunna
+unchali ani ankuntunna
+unchali ankuntunnanu
+unchali ani ankuntunnanu	
+dabbulu unchali
+dabbulu unchali ankuntunna
+dabbulu unchali ani ankuntunna
+dabbulu unchali ankuntunnanu
+dabbulu unchali ani ankuntunnanu
+
+
+
+tiyyali:
+tiyyali ankuntunna
+tiyyali ani ankuntunna
+tiyyali ankuntunnanu
+tiyyali ani ankuntunnanu	
+dabbulu tiyyali
+dabbulu tiyyali ankuntunna
+dabbulu tiyyali ani ankuntunna
+dabbulu tiyyali ankuntunnanu
+dabbulu tiyyali ani ankuntunnanu	
+tiskoli:
+tiskoli ankuntunna
+tiskoli ani ankuntunna
+tiskoli ankuntunnanu
+tiskoli ani ankuntunnanu	
+dabbulu tiskoli
+dabbulu tiskoli ankuntunna
+dabbulu tiskoli ani ankuntunna
+dabbulu tiskoli ankuntunnanu
+dabbulu tiskoli ani ankuntunnanu	
+tiskovali:
+tiskovali ankuntunna
+tiskovali ani ankuntunna
+tiskovali ankuntunnanu
+tiskovali ani ankuntunnanu	
+dabbulu tiskovali
+dabbulu tiskovali ankuntunna
+dabbulu tiskovali ani ankuntunna
+dabbulu tiskovali ankuntunnanu
+dabbulu tiskovali ani ankuntunnanu	
